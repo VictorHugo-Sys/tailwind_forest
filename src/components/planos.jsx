@@ -2,7 +2,7 @@ import React from 'react';
 
 const Planos = () => {
   return (
-    <div className="bg-verde-900 p-4 mt-28 mb-28 rounded-2xl">
+    <div className="bg-verde-900 p-4 my-28 rounded-2xl">
       <div className="flex flex-col gap-8 text-center mb-10">
         <p className="capitalize text-verde-400 text-2xl">
           conecte-se com a natureza

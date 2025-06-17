@@ -5,7 +5,7 @@ import svg3 from '../../img/noite.svg';
 
 const Ciclo = () => {
   return (
-    <section className='mb-40 flex flex-col bg-[url("../img/padrao.svg")] bg-no-repeat bg-contain bg-center'>
+    <section className='my-40 flex flex-col bg-[url("../img/padrao.svg")] bg-no-repeat bg-contain bg-center'>
       <div className='mx-auto text-center mb-20'>
         <p className="capitalize text-verde-400 text-2xl">
           ciclo natural

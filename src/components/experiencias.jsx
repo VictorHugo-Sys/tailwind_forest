@@ -5,7 +5,7 @@ import img3 from '../../img/vida-selvagem.jpg';
 
 const Experiencias = () => {
   return (
-    <section className="grid grid-cols-[1fr_1fr] max-lg:flex flex-col rounded-2xl gap-8 mb-28">
+    <section className="grid grid-cols-[1fr_1fr] max-lg:flex flex-col rounded-2xl gap-8 my-28">
       <div
         className="bg-verde-900 p-4 flex flex-col
       gap-8 rounded-2xl"

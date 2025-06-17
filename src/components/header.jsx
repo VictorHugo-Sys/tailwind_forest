@@ -1,5 +1,6 @@
 import React from 'react';
 import forestSvg from '../../img/forest.svg';
+import { Link } from 'react-scroll';
 
 const Header = () => {
   return (
@@ -20,16 +21,16 @@ const Header = () => {
         <nav>
           <ul className="flex gap-4 text-xl text-white *:hover:underline *:hover:underline-offset-10">
             <li className="">
-              <a href="#">acomodações</a>
+              <Link to="lista" smooth={true} offset={-60} duration={500}>acomodacoes</Link>
             </li>
             <li>
-              <a href="#">eventos</a>
+              <Link to="planos" smooth={true} offset={-80} duration={700}>eventos</Link>
             </li>
             <li>
-              <a href="#">experiencias</a>
+              <Link to="experiencias" smooth={true} offset={-80} duration={900}>experiencias</Link>
             </li>
             <li>
-              <a href="#">contato</a>
+              <Link to="contato" smooth={true} offset={-80} duration={1200}>contato</Link>
             </li>
           </ul>
         </nav>

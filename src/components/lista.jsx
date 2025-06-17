@@ -6,7 +6,7 @@ import casa3 from '../../img/casa3.jpg';
 const Lista = () => {
   return (
     <div>
-      <section className='bg-[url("../img/padrao.svg")] bg-no-repeat bg-contain bg-top-left mt-28 max-lg:flex max-lg:flex-col grid grid-cols-[2fr_3fr] gap-8 min-lg:items-end min-lg:mb-8'>
+      <section className='bg-[url("../img/padrao.svg")] bg-no-repeat bg-contain bg-top-left my-28 max-lg:flex max-lg:flex-col grid grid-cols-[2fr_3fr] gap-8 min-lg:items-end min-lg:mb-8'>
         <div className="mb-16 min-lg:mb-0">
           <h2 className="capitalize text-5xl text-white mb-8 font-serif">
             refugio natural

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Contato = () => {
   return (
-    <section className='flex flex-col gap-8 mb-28 lg:grid grid-cols-2'>
+    <section className='flex flex-col gap-8 my-28 lg:grid grid-cols-2'>
       <div className='bg-verde-900 p-4 rounded-2xl'>
         <div className='flex flex-col gap-6 mb-12'>
           <h2 className='text-5xl text-verde-400 capitalize '>nossos contatos</h2>
