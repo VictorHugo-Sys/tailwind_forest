@@ -5,7 +5,7 @@ Site desenvolvido com React, Vite e Tailwind CSS, integrando bibliotecas complem
 <h3>🚀 Projeto no ar</h3>
 
 <a href="https://victorhugo-sys.github.io/tailwind_forest/">
-  <img src="https://img.shields.io/badge/Acessar_Site-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acessar Site">
+  <img src="https://img.shields.io/badge/Acessar_Site-9831f7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acessar Site">
 </a>
 
 </div>
