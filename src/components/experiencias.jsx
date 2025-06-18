@@ -19,7 +19,7 @@ const Experiencias = () => {
         <ul className="text-white flex flex-col gap-6">
           <li>
             <div className="flex items-center gap-4">
-              <span className="h-1 w-8 bg-verde-400"></span>
+              <span className="h-1 w-8 neon"></span>
               <h3 className="text-2xl capitalize font-serif">
                 observacao noturna
               </h3>
@@ -30,7 +30,7 @@ const Experiencias = () => {
           </li>
           <li>
             <div className="flex items-center gap-4">
-              <span className="h-1 w-8 bg-verde-400"></span>
+              <span className="h-1 w-8 neon"></span>
               <h3 className="text-2xl capitalize font-serif">vida selvagem</h3>
             </div>
             <p className="text-xl text-gray-300 pl-12 text-balance">
@@ -39,7 +39,7 @@ const Experiencias = () => {
           </li>
           <li>
             <div className="flex items-center gap-4">
-              <span className="h-1 w-8 bg-verde-400"></span>
+              <span className="h-1 w-8 neon"></span>
               <h3 className="text-2xl capitalize font-serif">canoagem</h3>
             </div>
             <p className="text-xl text-gray-300 pl-12 text-balance">

@@ -1,5 +1,6 @@
 import React from 'react';
 import main from '../../img/floresta.jpg';
+import videoChuva from '../../img/video_chuva.mp4';
 import wildbeast from '../../img/parceiros/wildbeast.svg';
 
 const Apresentacao = () => {
@@ -7,10 +8,10 @@ const Apresentacao = () => {
     <div>
       <section className="bg-gradient-to-t from-verde-950 rounded-2xl">
         <div className="relative pt-64 pb-8 px-8 text-white max-sm:pt-24 max-sm:flex max-sm:flex-col max-sm:justify-center">
-          <img
-            className="absolute z-[-10] inset-0 h-full object-cover rounded-2xl"
-            src={main}
-          />
+          <video
+            src={videoChuva}
+            className="absolute z-[-10] inset-0 h-full object-cover rounded-2xl" muted playsInline loop autoPlay width={1280}
+          ></video>
           <div className="bg-verde-950 inline-flex items-center rounded-full mb-6 py-1 pr-1 pl-4 gap-8 text-xl max-sm:flex-col max-sm:bg-verde-950/50 max-sm:rounded-2xl max-sm:p-4">
             vagas para dezembro abertas
             <a href="#" className="bg-verde-300 text-black p-2 rounded-full">

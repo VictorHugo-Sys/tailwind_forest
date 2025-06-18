@@ -17,7 +17,7 @@ const Ciclo = () => {
       <div className='grid grid-cols-3 gap-6 max-lg:flex max-lg:flex-col'>
         <div className='bg-verde-900 rounded-2xl text-white p-4 flex flex-col gap-4 lg:hover:translate-y-2 transition-all'>
           <div>
-            <img src={svg1} className='bg-verde-300 rounded-full p-2'/>
+            <img src={svg1} className='neon rounded-full p-2'/>
           </div>
           <h3 className='text-3xl font-serif capitalize'>  
             amanhecer
@@ -31,7 +31,7 @@ const Ciclo = () => {
         </div>
         <div className='bg-verde-900 rounded-2xl text-white p-4 flex flex-col gap-4 lg:translate-y-12 lg:hover:translate-y-10 transition-all'>
           <div>
-            <img src={svg2} className='bg-verde-300 rounded-full p-2'/>
+            <img src={svg2} className='neon rounded-full p-2'/>
           </div>
           <h3 className='text-3xl font-serif capitalize'>
             meio-dia
@@ -45,7 +45,7 @@ const Ciclo = () => {
         </div>
         <div className='bg-verde-900 rounded-2xl text-white p-4 flex flex-col gap-4 lg:hover:translate-y-2 transition-all'>
           <div>
-            <img src={svg3} className='bg-verde-300 rounded-full p-2'/>
+            <img src={svg3} className='neon rounded-full p-2'/>
           </div>
           <h3 className='text-3xl font-serif capitalize'>
             anoitecer

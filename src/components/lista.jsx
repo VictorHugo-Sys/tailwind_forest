@@ -13,23 +13,23 @@ const Lista = () => {
           </h2>
           <ul className="space-y-2 text-white">
             <li className="flex items-center gap-4 text-2xl">
-              <span className="w-6 h-0.5 bg-verde-300 inline-block"></span>
+              <span className="w-6 h-0.5 neon inline-block"></span>
               Experimente a natureza de perto
             </li>
             <li className="flex items-center gap-4 text-2xl">
-              <span className="w-6 h-0.5 bg-verde-300 inline-block"></span>
+              <span className="w-6 h-0.5 neon inline-block"></span>
               Conecte-se com a natureza
             </li>
             <li className="flex items-center gap-4 text-2xl">
-              <span className="w-6 h-0.5 bg-verde-300 inline-block"></span>
+              <span className="w-6 h-0.5 neon inline-block"></span>
               Desconecte-se do digital
             </li>
             <li className="flex items-center gap-4 text-2xl">
-              <span className="w-6 h-0.5 bg-verde-300 inline-block"></span>
+              <span className="w-6 h-0.5 neon inline-block"></span>
               Observe a vida selvagem
             </li>
             <li className="flex items-center gap-4 text-2xl">
-              <span className="w-6 h-0.5 bg-verde-300 inline-block"></span>
+              <span className="w-6 h-0.5 neon inline-block"></span>
               Escolha sua cabine preferida
             </li>
           </ul>

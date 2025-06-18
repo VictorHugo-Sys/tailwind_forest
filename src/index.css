@@ -1,7 +1,7 @@
 @import 'tailwindcss';
 
 body {
-  background-color: #16281f;
+  background: #16281f;
 }
 
 @theme {
@@ -12,4 +12,10 @@ body {
   --color-verde-800: #16281f;
   --color-verde-900: #0f1c15;
   --color-verde-950: #030504;
+}
+
+.neon {
+  @apply rounded-full border border-verde-200 bg-gradient-to-b from-verde-200 to-verde-400;
+  box-shadow: 0 1px 4px 1px theme(colors.verde.200 / 25%),
+    inset 0px -1px 2px theme(colors.verde.200);
 }
