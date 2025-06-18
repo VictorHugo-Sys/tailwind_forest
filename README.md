@@ -1,3 +1,11 @@
-Uma simples lista de exercícios em React, criada para praticar conceitos básicos. É um projetinho antigo, focado apenas na lógica. A estilização foi mínima, apenas o suficiente para manter a legibilidade. <br>
+Site desenvolvido com React, Vite e Tailwind CSS, integrando bibliotecas complementares do ecossistema React. Ainda estou ajustando e organizando alguns detalhes, mas a estrutura principal já está implementada. <br>
 
-[![Website](https://img.shields.io/badge/Meu_Site-1E90FF?style=flat-square&logo=google-chrome&logoColor=white)](https://victorhugo-sys.github.io/exercicios_react/)
+<div align="center">
+
+<h3>🚀 Projeto no ar</h3>
+
+<a href="https://victorhugo-sys.github.io/tailwind_forest/">
+  <img src="https://img.shields.io/badge/Acessar_Site-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acessar Site">
+</a>
+
+</div>
